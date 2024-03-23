@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sghazra21
 - 👀 I’m interested in ... automation
-- 🌱 I’m currently learning ... ansible vmware aws
-- 💞️ I’m looking to collaborate on ... complete automated deployment of ec2 and vmware
+- 🌱 I’m expert in ... ansible vmware aws vmware-aria automation
+- 💞️ I’m looking to collaborate on ... MultiCloud-IAAC
 - 📫 How to reach me ... sghazra21@gmail.com
 
 <!---
